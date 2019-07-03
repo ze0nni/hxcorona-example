@@ -1,0 +1,5 @@
+-main Main
+-dce full
+-D luajit
+-lib hxcorona
+-lua ../coronaProject/main.lua
